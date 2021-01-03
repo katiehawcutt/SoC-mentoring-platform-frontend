@@ -4,7 +4,6 @@
   align-items: center;
   justify-content: center;
   min-height: calc(100vh - 100px);
-  /* background-color: #31986a; */
   background-image: url("../Homepage/SoCstars.png");
   background-position: left;
 }

@@ -1,9 +1,6 @@
 .choice-card-container {
-  /* background-color: grey; */
   height: 350px;
   width: 350px;
-
-  /* border: 1px solid black; */
   perspective: 1000px;
   margin: 30px;
   color: white;

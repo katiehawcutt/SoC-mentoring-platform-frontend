@@ -1,9 +1,6 @@
 .card-container {
-  /* background-color: grey; */
   height: 630px;
   width: 350px;
-
-  /* border: 10px solid #2b7cc0; */
   perspective: 1000px;
   margin: 30px;
   color: white;
@@ -47,7 +44,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* padding: 30px; */
 }
 
 #profile-image {
