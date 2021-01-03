@@ -1,70 +1,41 @@
-# Project Week Front-End
+# School of Code Mentoring Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Take a look here...](https://mentor-match.netlify.app/)
 
-## Available Scripts
+![SoC Mentoring Platform homepage](./public/mentorAppHome.PNG)
 
-In the project directory, you can run:
+![SoC Mentoring Platform mentor match page](./public/mentorAppFind.PNG)
 
-### `npm start`
+#### School of Code Bootcamp - Project Week
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+###### November 2020
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+_Week 8 of the SoC Bootcamp was Project Week and this was the first time we had worked in teams of four and on a project that lasted more than a couple of days. The brief we were given was to build something which enhances the SoC mentoring experience. We did some user research and found that the main areas to improve were better matching of bootcampers to mentors based on areas of interest, and trying to make the process easier for the SoC coaching team by having a central source of information. In response to the we chose to build a platform in which:_
 
-### `npm test`
+- _bootcampers could sign up for a mentor_
+- _prospective mentors could find out what mentoring involves and sign up_
+- _bootcampers could view the SoC mentors and see their areas of expertise and interests and the choose their top 5 mentors_
+- _SoC coaches could view the bootcampers choices to help them with the matching process_
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tech stack:
 
-### `npm run build`
+HTML5, CSS3, JavaScript, React, Express.js, Node.js, PostgreSQL. Cloud hosted using Heroku and Netlify.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Winner of project week with praise for Design and UX.**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Main Learning Points:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Working in an Agile way with daily stand-ups and retro's. We used Trello to implement a Kanban system with a backlog of tasks which we prioritised and assigned to different team members each day. After we finished the whole project we had a retro the following week to reflect on what went well and where we could improve. It was really helpful and definitely informed my decision making since.
 
-### `npm run eject`
+- Document everything! We made the mistake of getting rid of our initial Disney Ideation notes once we'd decided on the end product which wasn't a disaster but in hindsight it would have been interesting and useful to have kept them somewhere to refer back to later or to show in our presentation.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- You can never plan enough! I think we jumped in to coding a little too soon on the first day which meant that at the start of Day 2 we went back to our plan and filled it out with more details to make sure that as a team we were on the same page. Having not worked in a team of four before, or on a project this long, we maybe didn't realise how much communication about the plan was needed. It was a really valuable learning point.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Creating a presentation about our product and presenting it to a panel of experts. We talked about our brief, how we solved the problem, our planning phase, how we managed the project in an Agile way, the technologies we used, any problems we encountered, we gave them a tour of the end product and then took questions at the end.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- We got really confident at using GitHub, making branches, merging and clearly communicating about the work being done
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Stretch Goals:
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Create a login for the View Bootcampers page so that only the SoC coaches can see the mentor choices that the bootcampers have made
+- Make a mobile version of the the app which works well on phone
