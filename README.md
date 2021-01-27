@@ -2,9 +2,9 @@
 
 ## [Take a look here...](https://mentor-match.netlify.app/)
 
-![SoC Mentoring Platform homepage](./Images/mentorAppHome.PNG)
+![SoC Mentoring Platform homepage](./Public/mentorAppHome.PNG)
 
-![SoC Mentoring Platform mentor match page](./Images/mentorAppFind.PNG)
+![SoC Mentoring Platform mentor match page](./Public/mentorAppFind.PNG)
 
 ### School of Code Bootcamp - Project Week
 
