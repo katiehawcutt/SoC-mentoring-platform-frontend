@@ -1,12 +1,12 @@
 # School of Code Mentoring Platform
 
-[Take a look here...](https://mentor-match.netlify.app/)
+## [Take a look here...](https://mentor-match.netlify.app/)
 
-![SoC Mentoring Platform homepage](./public/mentorAppHome.PNG)
+![SoC Mentoring Platform homepage](./Images/mentorAppHome.PNG)
 
-![SoC Mentoring Platform mentor match page](./public/mentorAppFind.PNG)
+![SoC Mentoring Platform mentor match page](./Images/mentorAppFind.PNG)
 
-#### School of Code Bootcamp - Project Week
+### School of Code Bootcamp - Project Week
 
 ###### November 2020
 
@@ -17,13 +17,13 @@ _Week 8 of the SoC Bootcamp was Project Week and this was the first time we had 
 - _bootcampers could view the SoC mentors and see their areas of expertise and interests and the choose their top 5 mentors_
 - _SoC coaches could view the bootcampers choices to help them with the matching process_
 
-### Tech stack:
+## Tech stack:
 
 HTML5, CSS3, JavaScript, React, Express.js, Node.js, PostgreSQL. Cloud hosted using Heroku and Netlify.
 
 **Winner of project week with praise for Design and UX.**
 
-### Main Learning Points:
+## Main Learning Points:
 
 - Working in an Agile way with daily stand-ups and retro's. We used Trello to implement a Kanban system with a backlog of tasks which we prioritised and assigned to different team members each day. After we finished the whole project we had a retro the following week to reflect on what went well and where we could improve. It was really helpful and definitely informed my decision making since.
 
@@ -35,7 +35,11 @@ HTML5, CSS3, JavaScript, React, Express.js, Node.js, PostgreSQL. Cloud hosted us
 
 - We got really confident at using GitHub, making branches, merging and clearly communicating about the work being done
 
-### Stretch Goals:
+## Stretch Goals:
 
 - Create a login for the View Bootcampers page so that only the SoC coaches can see the mentor choices that the bootcampers have made
 - Make a mobile version of the the app which works well on phone
+
+## View it here:
+
+https://mentor-match.netlify.app

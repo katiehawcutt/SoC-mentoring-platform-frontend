@@ -6,7 +6,7 @@ import Mentor from "../MentorPage";
 import Bootcamper from "../BootcamperPage";
 import Matching from "../MatchingPage";
 import ShowTop5 from "../ChoicesPage";
-import Nav from "../Nav";
+import Nav from "../Nav/Nav";
 
 const url = process.env.REACT_APP_BACKEND_URL || "http://localhost:5000";
 
